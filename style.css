@@ -564,6 +564,11 @@
             object-fit: contain;
         }
 
+         .btn-header {
+            padding: 10px 30px;
+           
+        }
+
         }
 
         @media (min-width: 1024px) {
